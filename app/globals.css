@@ -24,4 +24,15 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    margin: 2rem;
 }
+
+/* .howdy {
+  font-family: monospace;
+  color: rgb(32, 218, 196);
+} */
+/* .go-to-about {
+  color: rgb(255, 213, 0);
+} */
+
+

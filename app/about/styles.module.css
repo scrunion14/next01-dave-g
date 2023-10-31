@@ -1,0 +1,13 @@
+.main {
+  min-height: 80vh;
+  display: grid;
+  place-content: center;
+  background-color: #333;
+}
+.h1 {
+  font-size: 20px;
+}
+.goToTop {
+  color: red;
+  text-decoration: underline;
+}
